@@ -1,2 +1,2 @@
-# Collaborative-Filtering
-Movie Recommendation System using Collaborative Filtering. Model consists of Matrix Factorization with fully connected layers, and dropout layers for experimentation. Utilized trained movie embeddings to cluster similar moives together.
+# Recommendation System
+Movie Recommendation System using Two Tower model. Model consists of two MLP models for user and movie features. Utilized trained movie embeddings to cluster similar moives together.
